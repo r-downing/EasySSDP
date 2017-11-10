@@ -1,3 +1,8 @@
+/*
+ * EasySSDP library
+ * Ryan Downing
+ * v 0.0.0
+ */
 #pragma once
 
 #include <ESP8266WiFi.h>
