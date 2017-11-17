@@ -3,6 +3,6 @@ Easy SSDP setup function for ESP8266 on Arduino. Makes Devices visible on Window
 
 [Full Documentation](https://ryandowning.net/EasySSDP)
 
-![](https://ryandowning.net/EasySSDP/img/windowsnetwork.png)
+![](http://ryandowning.net/EasySSDP/img/windowsnetwork.png)
 
 
