@@ -1,7 +1,7 @@
 # EasySSDP
 Easy SSDP setup function for ESP8266 on Arduino. Makes Devices visible on Windows Network
 
-![](/img/windowsnetwork.png)
+![](/EasySSDP/img/windowsnetwork.png)
 
 # Usage
 Simply call the `begin` function in `setup` and pass your `ESP8266WebServer` object as an argument.
